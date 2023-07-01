@@ -62,6 +62,9 @@
 
 
 ## Connect with me  
+<a href="https://www.linkedin.com/in/joseph-charles-mugabi-b26524271/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <a href="https://instagram.com/joseph_charles_mugabi" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
