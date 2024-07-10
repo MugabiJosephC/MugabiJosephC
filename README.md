@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mugabi, a full-stack in the making, front-end developer.</div>
   
 
-- 🌱 I’m currently mastering React
+- 🌱 I’m currently learning Flutter.
   
 
 - ❓ Ask me about anything related to Front End technologies. 
