@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mugabi, a full-stack in the making, front-end developer.</div>
+### <div align="center">I'm Mugabi, a front-end developer.</div>
   
 
 - 🌱 I’m currently learning Flutter.
