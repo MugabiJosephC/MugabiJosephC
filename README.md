@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mugabi, a front-end developer.</div>
+### <div align="center">I'm Mugabi, a growing software engineer.</div>
   
 
 - 🌱 I’m currently learning Flutter.
