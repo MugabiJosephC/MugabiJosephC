@@ -6,13 +6,17 @@
 ### <div align="center">I'm Mugabi, a growing software engineer.</div>
   
 
-- 🌱 I’m currently learning Flutter.
+- 🌍&nbsp; I'm based in Kampala, Uganda.
   
-
-- ❓ Ask me about anything related to Front End technologies. 
+- 🌱&nbsp; I'm currently perfecting React.
   
+- 🚀&nbsp; I'm also <a href="http://tharasystems.com" rel="nofollow"> cooking! 😎</a>
 
+- ❓ Ask me about anything related to Front End technologies.
+  
 - ⚡ Fun fact: I use tabs over spaces.
+  
+- ✉️&nbsp; You can contact me at <a href="mailto:josephcharlesmugabi@gmail.com">josephcharlesmugabi@gmail.com</a>
   
 
 <br/>  
